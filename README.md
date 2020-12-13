@@ -13,4 +13,4 @@ purpose of object detection. Feel free to submit any PRs.
 * Configure the setting variables in the script as needed. (Path setting can be relative or absolute. Make sure the folders are created beforehand as the script can't create folders.)
 * Run the script from a correctly setup terminal. 
 * Press enter to take a screenshot, press Q and enter to exit.
-* If run multiple times, remember to chance file names, or it will start overwriting images as the counter sets to 0.
+* If run multiple times, remember to change file names, or it will start overwriting images as the counter sets to 0.
