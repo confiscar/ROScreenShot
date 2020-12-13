@@ -1,10 +1,8 @@
 # ROScreenShot
-ROScreenshot is a quick python script, thrown together with the purpose
-of providing a way of screenshotting camera feeds broadcasted as ROS 
+ROScreenshot is a quick python script, thrown together to provide a way of screenshotting camera feeds broadcasted as a ROS 
 topic.
 
-It was created for the purpose of collecting images to train NN's for the
-purpose of object detection. Feel free to submit any PRs.
+It was created for the purpose of collecting images to train NN's for object detection. Feel free to submit any PRs.
 
 ## How to use
 
